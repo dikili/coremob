@@ -1,0 +1,103 @@
+{
+"news":
+{
+    "status":"sent",
+    "totalResults":55,
+    "article":
+    [ 
+        {
+            "title": "title1",
+            "author": "author1",
+            "description": "desc1",
+            "url": "url",
+            "urlToImage": "urlToImage",
+            "publishedAt": "2012-03-19T07:22Z",
+            "content": "context",
+            "source": "source"
+
+        },
+        {
+            "title": "title1",
+            "author": "author1",
+            "description": "desc1",
+            "url": "url",
+            "urlToImage": "urlToImage",
+            "publishedAt": "2012-03-19T07:22Z",
+            "content": "context",
+            "source": "source"
+
+        },
+        {
+            "title": "title1",
+            "author": "author1",
+            "description": "desc1",
+            "url": "url",
+            "urlToImage": "urlToImage",
+            "publishedAt": "2012-03-19T07:22Z",
+            "content": "context",
+            "source": "source"
+
+        },
+        {
+            "title": "title1",
+            "author": "author1",
+            "description": "desc1",
+            "url": "url",
+            "urlToImage": "urlToImage",
+            "publishedAt": "2012-03-19T07:22Z",
+            "content": "context",
+            "source": "source"
+
+        },
+        {
+            "title": "title1",
+            "author": "author1",
+            "description": "desc1",
+            "url": "url",
+            "urlToImage": "urlToImage",
+            "publishedAt": "2012-03-19T07:22Z",
+            "content": "context",
+            "source": "source"
+
+        },
+        {
+            "title": "title1",
+            "author": "author1",
+            "description": "desc1",
+            "url": "url",
+            "urlToImage": "urlToImage",
+            "publishedAt": "2012-03-19T07:22Z",
+            "content": "context",
+            "source": "source"
+
+        },
+        {
+            "title": "title1",
+            "author": "author1",
+            "description": "desc1",
+            "url": "url",
+            "urlToImage": "urlToImage",
+            "publishedAt": "2012-03-19T07:22Z",
+            "content": "context",
+            "source": "source"
+
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ] 
+}
+
+} 
